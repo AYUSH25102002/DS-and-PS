@@ -1,8 +1,8 @@
 #include<stdio.h>
-main()
+int main()
 {
 	int i,j,k,n;
-	printf("enetr no of rows that u want to print");
+	printf("enter no of rows that u want to print");
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)
 	{
